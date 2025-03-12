@@ -1,0 +1,5 @@
+/*
+  Access-Control-Allow-Origin: *
+
+/core.ruffle.js.wasm
+  Content-Type: application/wasm
